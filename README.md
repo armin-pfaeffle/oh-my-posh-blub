@@ -4,3 +4,5 @@ A colleague told me how easy it can be to setup an own theme for oh-my-posh. Aft
 
 This is how it looks like:
 ![Preview](preview.png "Preview")
+
+If you want to know how to setup oh-my-posh, you can read my very compact article: [Setting up oh-my-posh v3 for Windows Terminal](https://blog.armin-pfaeffle.de/2022/01/setting-up-oh-my-posh-v3-for-windows-terminal/)
